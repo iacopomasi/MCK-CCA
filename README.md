@@ -5,7 +5,7 @@ This repository provides the implementation of our MCK-CCA approach presented in
 
 This work is an extension of our previous method [2], that was made available at [KCCA Re-Id](https://github.com/glisanti/KCCAReId). Our approach, illustrated below, obtains state-of-the-art performance on multiple Re-Identification benchmarks thanks to the use of a powerful descriptor, the learning of multiple common kernelized projection spaces and an iterative logistic regression to select and weight the distances estimated in these spaces.
 
-![MCK-CCA](http://www-bcf.usc.edu/~iacopoma/download/MCK-CCA.png)
+![MCK-CCA](/media/mkcaa_method.png)
 
 ## Requirements 
 The code uses the following software and data to run:
